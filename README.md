@@ -25,5 +25,5 @@ gait analysis using markerless 3D motion data.
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/vGait.git
+git clone https://github.com/DSGZ-MotionLab/vGait.git
 cd vGait
