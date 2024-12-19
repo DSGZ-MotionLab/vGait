@@ -1,0 +1,12 @@
+{
+    "fps": 30,
+    "max_gap": 0.25,
+    "filter_cutoff": 7,
+    "filter_order": 4,
+    "heel_thr": 0.5,
+    "toe_thr": 0.8,
+    "stride_min": 0.5,
+    "stride_max": 1.5,
+    "swing_min": 0.3,
+    "stance_min": 0.3
+}
